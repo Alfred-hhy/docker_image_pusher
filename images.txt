@@ -1,2 +1,2 @@
-alpine
+secretflow/secretflow-anolis8:latest
 
