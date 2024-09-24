@@ -1,2 +1,3 @@
 secretflow/secretflow-anolis8:latest
+confluentinc/cp-schema-registry:7.3.2
 
