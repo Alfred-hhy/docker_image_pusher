@@ -1,3 +1,4 @@
 secretflow/secretflow-anolis8:latest
 confluentinc/cp-schema-registry:7.3.2
 pytorch/pytorch:2.5.1-cuda12.4-cudnn9-devel
+ubuntu:22.04
